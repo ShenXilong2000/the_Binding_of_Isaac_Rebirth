@@ -1,0 +1,8 @@
+E:\ProgramLearning\c#\The Binding of Isaac Rebirth\The Binding of Isaac Rebirth\The Binding of Isaac Rebirth\obj\Debug\ResolveAssemblyReference.cache
+E:\ProgramLearning\c#\The Binding of Isaac Rebirth\The Binding of Isaac Rebirth\The Binding of Isaac Rebirth\obj\Debug\The_Binding_of_Isaac_Rebirth.FormMain.resources
+E:\ProgramLearning\c#\The Binding of Isaac Rebirth\The Binding of Isaac Rebirth\The Binding of Isaac Rebirth\obj\Debug\The_Binding_of_Isaac_Rebirth.Properties.Resources.resources
+E:\ProgramLearning\c#\The Binding of Isaac Rebirth\The Binding of Isaac Rebirth\The Binding of Isaac Rebirth\obj\Debug\The Binding of Isaac Rebirth.csproj.GenerateResource.Cache
+E:\ProgramLearning\c#\The Binding of Isaac Rebirth\The Binding of Isaac Rebirth\The Binding of Isaac Rebirth\bin\Debug\The Binding of Isaac Rebirth.exe
+E:\ProgramLearning\c#\The Binding of Isaac Rebirth\The Binding of Isaac Rebirth\The Binding of Isaac Rebirth\bin\Debug\The Binding of Isaac Rebirth.pdb
+E:\ProgramLearning\c#\The Binding of Isaac Rebirth\The Binding of Isaac Rebirth\The Binding of Isaac Rebirth\obj\Debug\The Binding of Isaac Rebirth.exe
+E:\ProgramLearning\c#\The Binding of Isaac Rebirth\The Binding of Isaac Rebirth\The Binding of Isaac Rebirth\obj\Debug\The Binding of Isaac Rebirth.pdb
